@@ -1,4 +1,4 @@
-Enter file contents her#!/usr/bin/python
+#!/usr/bin/python
 # -*- coding: utf-8 -*-
 
 from xml.sax import make_parser
