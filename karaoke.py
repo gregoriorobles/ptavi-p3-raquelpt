@@ -9,7 +9,6 @@ import smallsmilhandler
 import os
 
 
-
 class KaraokeLocal():
 
     def __init__(self, fichero):
@@ -28,8 +27,6 @@ class KaraokeLocal():
                         Elemento[Atributo] = Elemento[Atributo].split('/')[-1]
 
     
-        
-
 if __name__ == "__main__":
     try:
         fich = sys.argv[1]
