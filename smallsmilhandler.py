@@ -46,4 +46,4 @@ class smallsmilHandler(ContentHandler):
             self.Lista.append([name, self.textstream])
 
     def get_tags(self):
-        return self.Listae
+        return self.Lista
